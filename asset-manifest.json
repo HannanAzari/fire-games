@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/fire-game/static/js/main.8b2ed81e.js",
+    "index.html": "/fire-game/index.html",
+    "main.8b2ed81e.js.map": "/fire-game/static/js/main.8b2ed81e.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.8b2ed81e.js"
+  ]
+}
